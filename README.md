@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @priyanshu
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about anything [here](https://github.com/priyanshu966106/priyanshu966106/issues)
+- 🎮 Join me on [steam](https://steamcommunity.com/id/thetgpriyanshu/)
 
  **Languages and Tools:**  
 
@@ -21,5 +22,3 @@
 priyanshu966106/priyanshu966106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
