@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyanshu
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about anything [here](https://github.com/priyanshu966106/priyanshu966106/issues)
-- 🎮 Join me on [steam](https://steamcommunity.com/id/thetgpriyanshu/)
+- 🎮 Join me on [Steam](https://steamcommunity.com/id/thetgpriyanshu/)
 
 <!--  **Languages and Tools:**  
 
