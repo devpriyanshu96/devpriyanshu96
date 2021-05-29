@@ -22,4 +22,4 @@ priyanshu966106/priyanshu966106 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-(https://github-readme-stats.vercel.app/api?username=priyanshu966106&show_icons=true&theme=radical)
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu966106&show_icons=true&theme=radical)
