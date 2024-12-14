@@ -23,7 +23,7 @@ priyanshu966106/priyanshu966106 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpriyanshu96&label=Profile%20views&color=0e75b6&style=flat" alt="devpriyanshu96" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu966&label=Profile%20views&color=0e75b6&style=flat" alt="devpriyanshu96" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
