@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshu
 - 🌱 I’m currently learning Typescript
-- 💬 Ask me about anything [here](https://github.com/priyanshu966106/priyanshu966106/issues)
+- 💬 Ask me about anything [here](https://github.com/devpriyanshu96/devpriyanshu96/issues)
 - 🎮 Join me on [Steam](https://steamcommunity.com/id/thetgpriyanshu/)
 
 <!--  **Languages and Tools:**  
@@ -23,7 +23,7 @@ priyanshu966106/priyanshu966106 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu966106&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu966106" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpriyanshu96&label=Profile%20views&color=0e75b6&style=flat" alt="devpriyanshu96" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,5 +31,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu966106&" alt="priyanshu966106" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devpriyanshu96&" alt="devpriyanshu96" /></p>
 
